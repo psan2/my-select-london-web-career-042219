@@ -8,4 +8,5 @@ def my_select(collection)
       selection << collection[i]
     end
     i += 1
+  end
 end
